@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model weights and training outputs
+*.pt
+runs/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Data and archives that should not be committed accidentally
+*.zip
+*.tar
+*.gz

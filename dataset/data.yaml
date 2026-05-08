@@ -1,0 +1,12 @@
+train: train/images
+val: valid/images
+test: test/images
+nc: 17
+names: ['Bhatura', 'BhindiMasala', 'Biryani', 'Chole', 'ShahiPaneer', 'chicken', 'dal', 'dhokla', 'gulab_jamun', 'idli', 'jalebi', 'modak', 'palak_paneer', 'poha', 'rice', 'roti', 'samosa']
+
+roboflow:
+  workspace: project-z0tql
+  project: indian-food-detection-kzw9g
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-z0tql/indian-food-detection-kzw9g/dataset/1
