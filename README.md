@@ -154,7 +154,3 @@ git push -u origin main
 
 Dataset references indicate CC BY 4.0 for the exported dataset metadata.  
 Add a dedicated `LICENSE` file for repository code if you plan public reuse.
-<<<<<<< HEAD
-=======
-
->>>>>>> c57ab01 (Polish README with full project documentation.)
