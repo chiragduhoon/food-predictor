@@ -12,12 +12,18 @@ IndianFoodAI is a YOLO-based computer vision project for detecting Indian food i
 
 ## Demo Screenshots
 
-Store screenshots in `assets/screenshots/` and embed them in this README:
+### Detection Result 1
+![Detection Result 1](assets/screenshots/001.jpeg)
 
-```markdown
-![Detection Result 1](assets/screenshots/result-1.png)
-![Detection Result 2](assets/screenshots/result-2.png)
-```
+### Detection Result 2
+![Detection Result 2](assets/screenshots/002.jpeg)
+
+### Detection Result 3
+![Detection Result 3](assets/screenshots/003.jpeg)
+
+### Detection Result 4
+![Detection Result 4](assets/screenshots/004.jpeg)
+
 
 ## Tech Stack
 
