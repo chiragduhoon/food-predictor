@@ -121,7 +121,7 @@ To scale this project with new food categories:
 5. Update calorie mapping in `app.py` (`CAL_VALS`) for the new labels.
 6. Replace/point `best.pt` to the new trained model.
 
-Recommended practices:
+Mandatory practices:
 
 - Keep class names consistent across dataset labels and `CAL_VALS`.
 - Add at least a few hundred samples per new class for stable performance.
@@ -140,7 +140,7 @@ Recommended practices:
 - Use `.venv` on every machine instead of sharing environment folders.
 - Keep model weights (`.pt`) outside git or use release assets if needed.
 
-## GitHub Publishing
+## GitHub Publishing :
 
 If your local commit is ready, run:
 
